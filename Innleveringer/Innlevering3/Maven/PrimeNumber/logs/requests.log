@@ -1,0 +1,12 @@
+12:45:38.818 [http-nio-8080-exec-1] INFO  com.innlevering3.PrimeNumberServlet - Tue Apr 19 12:45:38 CEST 2016 - 123
+12:45:42.884 [http-nio-8080-exec-2] INFO  com.innlevering3.PrimeNumberServlet - Tue Apr 19 12:45:42 CEST 2016 - 777
+12:45:51.691 [http-nio-8080-exec-3] INFO  com.innlevering3.PrimeNumberServlet - Tue Apr 19 12:45:51 CEST 2016 - 101
+12:45:58.612 [http-nio-8080-exec-4] INFO  com.innlevering3.PrimeNumberServlet - Tue Apr 19 12:45:58 CEST 2016 - fem
+12:46:02.308 [http-nio-8080-exec-5] INFO  com.innlevering3.PrimeNumberServlet - Tue Apr 19 12:46:02 CEST 2016 - -2
+12:46:12.740 [http-nio-8080-exec-6] INFO  com.innlevering3.PrimeNumberServlet - Tue Apr 19 12:46:12 CEST 2016 - 
+12:46:27.334 [http-nio-8080-exec-7] INFO  com.innlevering3.PrimeNumberServlet - Tue Apr 19 12:46:27 CEST 2016 - 123abc
+11:25:06.917 [http-nio-8080-exec-4] INFO  com.innlevering3.PrimeNumberServlet - Fri May 20 11:25:06 CEST 2016 - 7
+11:25:12.788 [http-nio-8080-exec-5] INFO  com.innlevering3.PrimeNumberServlet - Fri May 20 11:25:12 CEST 2016 - 6
+11:25:18.549 [http-nio-8080-exec-7] INFO  com.innlevering3.PrimeNumberServlet - Fri May 20 11:25:18 CEST 2016 - text
+11:25:23.605 [http-nio-8080-exec-10] INFO  com.innlevering3.PrimeNumberServlet - Fri May 20 11:25:23 CEST 2016 - -4
+11:26:14.034 [http-nio-8080-exec-13] INFO  com.innlevering3.PrimeNumberServlet - Fri May 20 11:26:14 CEST 2016 - aaa

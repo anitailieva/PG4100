@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration package="com.innlevering3" status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <File name="Errors" fileName="logs/errors.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>    </File>
+        <File name="Requests" fileName="logs/requests.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="com.innlevering3.PrimeCheck" level="error">
+            <AppenderRef ref="Errors" level="error" />
+        </Logger>
+        <Logger name="com.innlevering3.PrimeNumberServlet" level="info">
+            <AppenderRef ref="Requests" level="info" />
+        </Logger>
+        <Root level="all">
+            <AppenderRef ref="Console" level="info" />
+        </Root>
+    </Loggers>
+        </Configuration>

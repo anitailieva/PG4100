@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Projects/Innlevering3/Innlevering3.iml" filepath="$PROJECT_DIR$/Projects/Innlevering3/Innlevering3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Maven.iml" filepath="$PROJECT_DIR$/.idea/Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/MyWebApp/MyWebApp.iml" filepath="$PROJECT_DIR$/Projects/MyWebApp/MyWebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/NumbGenerator/NumGen.iml" filepath="$PROJECT_DIR$/Projects/NumbGenerator/NumGen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/NumberGenerator/NumberGenerator.iml" filepath="$PROJECT_DIR$/Projects/NumberGenerator/NumberGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/SimpleMaven/SimpleMaven.iml" filepath="$PROJECT_DIR$/Projects/SimpleMaven/SimpleMaven.iml" />
+    </modules>
+  </component>
+</project>

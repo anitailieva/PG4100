@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-embedded/src/main/webapp/WEB-INF/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-remote/src/main/webapp/WEB-INF/rest-servlet.xml</file>
+          <file>file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-remote/src/main/webapp/WEB-INF/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-embedded/src/main/webapp/WEB-INF/rest-servlet.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-embedded/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-embedded/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMavenProject/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-remote/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-samples/flume-remote/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMavenProject/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="" />
+        <datasource-mapping>
+          <factory-entry name="h2JpaAppenderTestUnit" />
+          <factory-entry name="hyperSqlJpaAppenderTestUnit" />
+        </datasource-mapping>
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/lib/apache-log4j-2.5-src/log4j-perf/src/main/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projects/MyWebApp/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMavenProject/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projects/PrimeNumber/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumberGenerator/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMavenProject/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projects/Innlevering3/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMavenProject/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering-3/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projects/Innlevering3/target/Innlevering3-1.0-SNAPSHOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/target/Innlevering3-1.0-SNAPSHOT" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMavenProject/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering-3/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Projects/PrimeNumber/target/PrimeNumbers/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/target/PrimeNumbers" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/PrimeNumber/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/PrimeNumber/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Innlevering-3-PG4100/PrimeNumber/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Innlevering-3-PG4100/PrimeNumber/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/PrimeNumber/target/Innlevering3-1.0-SNAPSHOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/PrimeNumber/target/Innlevering3-1.0-SNAPSHOT" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Innlevering-3-PG4100/PrimeNumber/target/Innlevering3-1.0-SNAPSHOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Innlevering-3-PG4100/PrimeNumber/target/Innlevering3-1.0-SNAPSHOT" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/Projects/NumberGenerator/src" />
+          <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/Projects/SimpleMaven/src" />
+          <root url="file://$MODULE_DIR$/Projects/MyWebApp/src" />
+          <root url="file://$MODULE_DIR$/Projects/PrimeNumber/src" />
+          <root url="file://$MODULE_DIR$/Projects/Innlevering3/src" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/Projects/out/production/NumberGenerator" />
+    <output-test url="file://$MODULE_DIR$/Projects/out/test/NumberGenerator" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Projects/NumberGenerator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/NumberGenerator/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lib" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/SimpleMaven/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/SimpleMaven/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/MyWebApp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/PrimeNumber/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/Innlevering3/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
