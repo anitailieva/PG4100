@@ -1,6 +1,6 @@
 # PG4100
 
-# Assingments - Avansert Java Programmering 
+# Assignments - Avansert Java Programmering 
 
 Assignment 1 - Multithreading
 CarRentalApp that lets multiple costurmers rent a car.
