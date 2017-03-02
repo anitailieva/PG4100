@@ -1,4 +1,4 @@
-## PG4100 Avansert Java Programmering 
+## PG4100 Advanced Java Programming 
 
 
 ## Assignments 
